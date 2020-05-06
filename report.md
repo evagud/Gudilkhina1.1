@@ -7,9 +7,9 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* [Валидный ключ показывается как невалидный при проверке через KeyValidator](https://github.com/evagud/Gudilkhina1.1/issues/1)
+* [Валидные ключи показывается как невалидные при проверке через KeyValidator](https://github.com/evagud/Gudilkhina1.1/issues/1)
 * [Невалидный ключ показывается как валидный при проверке через KeyValidator](https://github.com/evagud/Gudilkhina1.1/issues/3)
-* [Не хватает символа в одном из валидных ключей для проверки через KeyValidator](https://github.com/evagud/Gudilkhina1.1/issues/2)
+
 
 ## Описание процесса тестирования
 
